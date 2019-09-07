@@ -1,6 +1,9 @@
 # tracing_example
 Example of how to use Chrome Tracing.
 
+Execute it as
+chrome://tracing/ from the omnibox.
+
 The Trace Event Profiling Tool (about:tracing)
 https://www.chromium.org/developers/how-tos/trace-event-profiling-tool
 
